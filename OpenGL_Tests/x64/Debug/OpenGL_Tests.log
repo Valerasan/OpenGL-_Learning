@@ -1,0 +1,18 @@
+﻿  camera.h
+  main.cpp
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\shader.h(41,40): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\main.cpp(213,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\main.cpp(250,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\main.cpp(251,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\main.cpp(274,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\main.cpp(316,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\main.cpp(317,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\main.cpp(321,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\main.cpp(322,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\main.cpp(324,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\main.cpp(325,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yarov\source\repos\OpenGL_Tests\OpenGL_Tests\main.cpp(338,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  OpenGL_Tests.vcxproj -> C:\Users\yarov\source\repos\OpenGL_Tests\x64\Debug\OpenGL_Tests.exe
